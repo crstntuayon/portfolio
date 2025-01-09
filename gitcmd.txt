@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git status
+
+git commit -m "First commit"
+
+git remote add origin https://github.com/crstntuayon/portfolio.git
+
+git push -u origin master
